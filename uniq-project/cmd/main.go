@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 	"os"
-	"uniq/internal/uniq"
+	"uniq/internal"
 )
 
 func main() {
